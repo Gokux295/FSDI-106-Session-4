@@ -16,7 +16,7 @@ class Item {
         this.description = description;
         this.category = category;
         this.image = image;
-        this.user = "Efren";
+        this.user = "Chad";
     }
 }
 
