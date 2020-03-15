@@ -47,7 +47,7 @@ function getCatalog() {
             console.log("Working", resp)
             for (var y = 0; y < resp.length; y++) {
 
-                if (resp[y].user == "Efren" && resp[y].title != "") {
+                if (resp[y].user == "Chad" && resp[y].title != "") {
                     Items.push(resp[y]);
                 }
             }
